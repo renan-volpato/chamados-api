@@ -111,7 +111,7 @@ Rota base: `/chamados`
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/chamados-api.git
+git clone https://github.com/renan-volpato/chamados-api.git
 cd chamados-api
 ```
 
@@ -199,4 +199,4 @@ chamados-api
 
 ## 👩‍💻 Autor
 
-Desenvolvido por **[SEU NOME COMPLETO]** como parte de um desafio técnico de Desenvolvimento Backend com Java.
+Desenvolvido por Renan Volpato como parte de uma atividade acadêmica da matéria de Programação Orientada a Objetos Avançada 
