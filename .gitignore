@@ -1,0 +1,13 @@
+# Credenciais
+.env
+
+# Maven
+target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
